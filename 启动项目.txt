@@ -1,0 +1,15 @@
+---------------开启一个cmd-----------------------
+
+1、cd C:\Program Files\MongoDB\Server\4.2\bin\   ->回车
+2、 mongod ->回车
+
+
+---------------开启第二个cmd-----------------------
+
+1、 cd C:\Users\Administrator\Desktop\node-vue-ele-app\ ->回车
+2、npm run dev1 ->回车
+
+---------------任务-----------------------
+1、在空文件client 完善代码，然后新开 npm run dev ->回车 开启本地web服务看效果
+
+ vue create client
